@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "fast-extend": "^1.0.2"
+    "fast-extend": "^1.0.2",
+    "fast-deep-equal": "^1.0.0"
   },
   "author": "",
   "license": "ISC"
