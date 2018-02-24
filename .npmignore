@@ -4,10 +4,6 @@ node_modules/
 /coverage/
 package-lock.json
 yarn.lock
-*.test.ts
-*.spec.ts
-*.test.tsx
-*.spec.tsx
 *.test.js
 *.spec.js
 /test/

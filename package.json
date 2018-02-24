@@ -1,6 +1,6 @@
 {
   "name": "fast-af",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Collection of fastest JavaScript algorithms.",
   "main": "index.js",
   "scripts": {
