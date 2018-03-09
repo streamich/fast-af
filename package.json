@@ -1,6 +1,6 @@
 {
   "name": "fast-af",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Collection of fastest JavaScript algorithms.",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,7 @@
   "dependencies": {
     "fast-extend": "^1.0.2",
     "fast-deep-equal": "^1.0.0",
-    "fast-shallow-equal": "^0.1.1"
-  },
-  "author": "",
-  "license": "ISC"
+    "fast-shallow-equal": "^0.1.1",
+    "fastest-stable-stringify": "^1.0.1"
+  }
 }
