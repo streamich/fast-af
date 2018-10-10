@@ -13,7 +13,7 @@ Curated collection of fastest JavaScript algorithms.
 Extends arbitrary number object (similar how `Object.assign()` works).
 
 ```js
-const {extend} = require('fast-af/extend');
+import {extend} from 'fast-af/extend';
 
 extend(a, b, {foo: 'bar'});
 ```
@@ -24,7 +24,7 @@ extend(a, b, {foo: 'bar'});
 Shallow compares two objects for equality.
 
 ```js
-const {shallowEqual} = require('fast-af/shallowEqual');
+import {shallowEqual} from 'fast-af/shallowEqual';
 
 const isEqual = shallowEqual({foo: 'bar'}, {foo: 'bar'});
 ```
@@ -35,7 +35,7 @@ const isEqual = shallowEqual({foo: 'bar'}, {foo: 'bar'});
 Compares recursively JavaScript objects for equality.
 
 ```js
-const {deepEqual} = require('fast-af/deepEqual');
+import {deepEqual} from 'fast-af/deepEqual';
 
 const isEqual = deepEqual({foo: 'bar'}, {foo: 'bar'});
 ```
@@ -46,7 +46,7 @@ const isEqual = deepEqual({foo: 'bar'}, {foo: 'bar'});
 Predictably stringifies plain JavaScript objects.
 
 ```js
-const {stableStringify} = require('fast-af/stableStringify');
+import {stableStringify} from 'fast-af/stableStringify';
 
 const str = stableStringify({foo: 'bar'});
 ```
