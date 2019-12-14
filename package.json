@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "fast-extend": "^1.0.2",
-    "fast-deep-equal": "^1.0.0",
+    "fast-deep-equal": "^3.0.0",
     "fast-shallow-equal": "^0.1.1",
     "fastest-stable-stringify": "^1.0.1"
   }
